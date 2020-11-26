@@ -1,4 +1,4 @@
-# CTLTools
+# CTLTools (Certificate Transparency Log Analysis Tools)
 
 ## Certificate Transparency (CT)
 _“Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system, which is the main cryptographic system that underlies all HTTPS connections. These flaws weaken the reliability and effectiveness of encrypted Internet connections and can compromise critical TLS/SSL mechanisms, including domain validation, end-to-end encryption, and the chains of trust set up by certificate authorities. If left unchecked, these flaws can facilitate a wide range of security attacks, such as website spoofing, server impersonation, and man-in-the-middle attacks."_
